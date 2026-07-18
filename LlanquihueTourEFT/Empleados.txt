@@ -1,0 +1,2 @@
+Shelby Iturra;17654321-0;Camino los ladridos 111;Puerto Montt;+56944556677;Guia Turistico;650000
+Paz Rodriguez;20456123-5;Los Notros 222;Puerto Varas;+56955667788;Gerente administrativa;580000

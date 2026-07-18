@@ -1,0 +1,13 @@
+model\Rut.class
+data\LectorArchivos.class
+model\Registrable.class
+model\Persona.class
+app\Main.class
+utils\RutInvalidoException.class
+model\Direccion.class
+model\Reserva.class
+model\Empleado.class
+model\PaqueteTuristico.class
+model\Cliente.class
+model\Proveedor.class
+data\GestorPersonas.class

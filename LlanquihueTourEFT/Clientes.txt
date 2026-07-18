@@ -1,0 +1,4 @@
+Fernanda Jara;16789234-5;Los Alerces 123;Puerto Varas;+56911223344;camila@gmail.com
+Rodrigo Paez;18543987-2;Av Vicente Perez 456;Llanquihue;+56922334455;rodrigo@gmail.com
+Flor Torres;19283746-K;Calle Los Lagos 789;Frutillar;+56933445566;flor@gmail.com
+
